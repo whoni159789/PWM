@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/PWM.dir/main.cpp.o CMakeFiles/PWM.dir/src/hw/PWM/PWM.cpp.o -o PWM  -lwiringPi 
